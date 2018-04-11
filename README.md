@@ -14,3 +14,9 @@ In this assignment you and your partner will create 3D texture-mapped models fro
   - Output a VRML model
 ## Result
 1. raw image
+![raw image](https://github.com/pjrambo/Single-View-Model/blob/master/realimage/realimage.JPG "raw image")  
+2. texture maps
+![1](https://github.com/pjrambo/Single-View-Model/blob/master/realimage/1.jpg "1")
+![2](https://github.com/pjrambo/Single-View-Model/blob/master/realimage/2.jpg "2")
+![3](https://github.com/pjrambo/Single-View-Model/blob/master/realimage/3.jpg "3")  
+3. VRML model
